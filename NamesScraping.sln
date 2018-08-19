@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "WebScraping", "WebScraping\WebScraping.njsproj", "{38CC5ECD-A81C-49E6-A08D-CAD55C23DDFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NamesCollection", "NamesCollection\NamesCollection.csproj", "{25357BFB-9BB8-4D29-9E41-1FDC041357C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38CC5ECD-A81C-49E6-A08D-CAD55C23DDFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38CC5ECD-A81C-49E6-A08D-CAD55C23DDFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38CC5ECD-A81C-49E6-A08D-CAD55C23DDFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38CC5ECD-A81C-49E6-A08D-CAD55C23DDFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25357BFB-9BB8-4D29-9E41-1FDC041357C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25357BFB-9BB8-4D29-9E41-1FDC041357C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25357BFB-9BB8-4D29-9E41-1FDC041357C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25357BFB-9BB8-4D29-9E41-1FDC041357C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAFECBC0-6DE5-4778-B12B-65C413B81B05}
+	EndGlobalSection
+EndGlobal
